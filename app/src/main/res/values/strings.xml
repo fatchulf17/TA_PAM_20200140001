@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Inventory App</string>
+    <string name="tNama">Nama</string>
+    <string name="iNama">Masukkan Nama</string>
+    <string name="tPass">Password</string>
+    <string name="iPass">Masukkan Password</string>
+    <string name="tlogin">Log In</string>
+    <string name="tRegis">Register</string>
+    <string name="txnama">Ini hasil nama</string>
+</resources>
